@@ -10,6 +10,10 @@ datamodel: datamodel.graphql
 # You can only access the API when providing JWTs that are signed with this secret
 secret: mysecret1234
 #cluster: public-hotgambler-835/prisma-eu1
-##endpoint: https://eu1.prisma.sh/public-hotgambler-835/hackernews-node/dev
+
+
+
+
+
 
 endpoint: https://eu1.prisma.sh/public-hotgambler-835/hackernews-node/dev
